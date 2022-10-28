@@ -1,4 +1,4 @@
-https://youngphone.github.io/2022/10/26/hello-world/
+https://youngphone.github.io/articles/Hexo/Butterfly/hello-world/
 https://youngphone.github.io/link/
 https://youngphone.github.io/categories/
 https://youngphone.github.io/tags/
