@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://youngphone.github.io/music/</loc>
+    
+    <lastmod>2022-10-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://youngphone.github.io/movies/</loc>
+    
+    <lastmod>2022-10-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://youngphone.github.io/comments/</loc>
+    
+    <lastmod>2022-10-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://youngphone.github.io/about/</loc>
+    
+    <lastmod>2022-10-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://youngphone.github.io/articles/Win11/powershell/virtualenvwrapper-powershell/</loc>
     
     <lastmod>2022-10-28</lastmod>
@@ -56,13 +92,6 @@
 
   
   <url>
-    <loc>https://youngphone.github.io/tags/Hexo/</loc>
-    <lastmod>2022-10-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://youngphone.github.io/tags/virtualenvwrapper/</loc>
     <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -76,14 +105,14 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://youngphone.github.io/categories/Hexo/</loc>
+    <loc>https://youngphone.github.io/tags/Hexo/</loc>
     <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+
   
   <url>
     <loc>https://youngphone.github.io/categories/Python/</loc>
@@ -93,7 +122,7 @@
   </url>
   
   <url>
-    <loc>https://youngphone.github.io/categories/Hexo/Butterfly/</loc>
+    <loc>https://youngphone.github.io/categories/Hexo/</loc>
     <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -101,6 +130,13 @@
   
   <url>
     <loc>https://youngphone.github.io/categories/Python/virtualenvwrapper/</loc>
+    <lastmod>2022-10-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://youngphone.github.io/categories/Hexo/Butterfly/</loc>
     <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
