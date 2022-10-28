@@ -2,34 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://youngphone.github.io/about/</loc>
-    
-    <lastmod>2022-10-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://youngphone.github.io/comments/</loc>
-    
-    <lastmod>2022-10-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://youngphone.github.io/music/</loc>
-    
-    <lastmod>2022-10-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://youngphone.github.io/movies/</loc>
+    <loc>https://youngphone.github.io/articles/Hexo/Butterfly/hello-world/</loc>
     
     <lastmod>2022-10-28</lastmod>
     
@@ -47,7 +20,25 @@
   </url>
   
   <url>
-    <loc>https://youngphone.github.io/articles/Hexo/Butterfly/hello-world/</loc>
+    <loc>https://youngphone.github.io/about/</loc>
+    
+    <lastmod>2022-10-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://youngphone.github.io/categories/</loc>
+    
+    <lastmod>2022-10-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://youngphone.github.io/comments/</loc>
     
     <lastmod>2022-10-28</lastmod>
     
@@ -58,16 +49,25 @@
   <url>
     <loc>https://youngphone.github.io/link/</loc>
     
-    <lastmod>2022-10-27</lastmod>
+    <lastmod>2022-10-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://youngphone.github.io/categories/</loc>
+    <loc>https://youngphone.github.io/movies/</loc>
     
-    <lastmod>2022-10-27</lastmod>
+    <lastmod>2022-10-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://youngphone.github.io/music/</loc>
+    
+    <lastmod>2022-10-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +76,7 @@
   <url>
     <loc>https://youngphone.github.io/tags/</loc>
     
-    <lastmod>2022-10-27</lastmod>
+    <lastmod>2022-10-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

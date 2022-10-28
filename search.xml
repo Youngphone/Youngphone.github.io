@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Hello World</title>
+      <link href="/articles/Hexo/Butterfly/hello-world/"/>
+      <url>/articles/Hexo/Butterfly/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Categories-amp-Tags"><a href="#Categories-amp-Tags" class="headerlink" title="Categories &amp; Tags"></a>Categories &amp; Tags</h3><p>Only posts support the use of categories and tags. Categories apply to posts in order, resulting in a hierarchy of classifications and sub-classifications. Tags are all defined on the same hierarchical level so the order in which they appear is not important.</p><h4 id="Example"><a href="#Example" class="headerlink" title="Example"></a>Example</h4><figure class="highlight markdown"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">categories:</span><br><span class="line"><span class="bullet">-</span> Sports</span><br><span class="line"><span class="bullet">-</span> Baseball</span><br><span class="line">tags:</span><br><span class="line"><span class="bullet">-</span> Injury</span><br><span class="line"><span class="bullet">-</span> Fight</span><br><span class="line"><span class="bullet">-</span> Shocking</span><br></pre></td></tr></tbody></table></figure><p>If you want to apply multiple category hierarchies, use a list of names instead of a single name. If Hexo sees any categories defined this way on a post, it will treat each category for that post as its own independent hierarchy.</p><h4 id="Example-1"><a href="#Example-1" class="headerlink" title="Example"></a>Example</h4><figure class="highlight markdown"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">categories:</span><br><span class="line"><span class="bullet">-</span> [Sports, Baseball]</span><br><span class="line"><span class="bullet">-</span> [MLB, American League, Boston Red Sox]</span><br><span class="line"><span class="bullet">-</span> [MLB, American League, New York Yankees]</span><br><span class="line"><span class="bullet">-</span> Rivalries</span><br></pre></td></tr></tbody></table></figure><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+          <category> Butterfly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>在powershell中使用virtualenvwrapper</title>
       <link href="/articles/Win11/powershell/virtualenvwrapper-powershell/"/>
       <url>/articles/Win11/powershell/virtualenvwrapper-powershell/</url>
@@ -29,33 +56,6 @@
             <tag> virtualenvwrapper </tag>
             
             <tag> powershell </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/articles/Hexo/Butterfly/hello-world/"/>
-      <url>/articles/Hexo/Butterfly/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Categories-amp-Tags"><a href="#Categories-amp-Tags" class="headerlink" title="Categories &amp; Tags"></a>Categories &amp; Tags</h3><p>Only posts support the use of categories and tags. Categories apply to posts in order, resulting in a hierarchy of classifications and sub-classifications. Tags are all defined on the same hierarchical level so the order in which they appear is not important.</p><h4 id="Example"><a href="#Example" class="headerlink" title="Example"></a>Example</h4><figure class="highlight markdown"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">categories:</span><br><span class="line"><span class="bullet">-</span> Sports</span><br><span class="line"><span class="bullet">-</span> Baseball</span><br><span class="line">tags:</span><br><span class="line"><span class="bullet">-</span> Injury</span><br><span class="line"><span class="bullet">-</span> Fight</span><br><span class="line"><span class="bullet">-</span> Shocking</span><br></pre></td></tr></tbody></table></figure><p>If you want to apply multiple category hierarchies, use a list of names instead of a single name. If Hexo sees any categories defined this way on a post, it will treat each category for that post as its own independent hierarchy.</p><h4 id="Example-1"><a href="#Example-1" class="headerlink" title="Example"></a>Example</h4><figure class="highlight markdown"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">categories:</span><br><span class="line"><span class="bullet">-</span> [Sports, Baseball]</span><br><span class="line"><span class="bullet">-</span> [MLB, American League, Boston Red Sox]</span><br><span class="line"><span class="bullet">-</span> [MLB, American League, New York Yankees]</span><br><span class="line"><span class="bullet">-</span> Rivalries</span><br></pre></td></tr></tbody></table></figure><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Hexo </category>
-          
-          <category> Butterfly </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Hexo </tag>
             
         </tags>
       
